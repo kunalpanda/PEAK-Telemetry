@@ -7,7 +7,7 @@ PEAK-Telemetry is a Python-based project that creates a GUI for displaying batte
 - `projectrequirementdocumenttemplate.pdf`: Outlines the software's uses and priorities.
 - `PCANBasic.py`: A local copy of the PCAN library.
 - `F24_AMS_CANDB.dbc`: CAN databae file.
-- `fullapp.py`: Under development project to functional dynamically based on the CAN database file.
+- `fullapp.py`: Under development project to dynamically filter messages based on the CAN database file.
 
 ## Technical Details
 - Python Version: Compatible with all versions of Python 3.
